@@ -11,7 +11,7 @@
 
 ## Introduction
 In this project, we investigate the integration of an Analog-to-Digital Converter (ADC) in a hybrid buck converter system. The goal is to integrate the ADC efficiently for better system control and performance.
-![Alt text] (./images/Junu_3.jpg)
+
 ## Specifications
 ### Features
 - 12-bit resolution ADC
@@ -28,7 +28,7 @@ In this project, we investigate the integration of an Analog-to-Digital Converte
 The concept of integrating an ADC into a power converter system helps to monitor and control the output voltage in real-time, improving performance and efficiency. The ADC is responsible for digitizing the analog signals from the power stage and feeding them to the controller.
 
 ### Block Diagram
-![Block Diagram](./images/block_diagram.png)
+![Block Diagram](./images/Junu_3.jpg)
 
 ## Verification
 The verification process involves testing the ADC performance and ensuring that the system operates as expected. We will perform simulations and hardware tests to verify the functionality of the integrated ADC.
