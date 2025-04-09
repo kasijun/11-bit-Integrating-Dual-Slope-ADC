@@ -11,7 +11,7 @@
 
 ## Introduction
 In this project, we investigate the integration of an Analog-to-Digital Converter (ADC) in a hybrid buck converter system. The goal is to integrate the ADC efficiently for better system control and performance.
-
+![Alt text] (./images/Junu_3.jpg)
 ## Specifications
 ### Features
 - 12-bit resolution ADC
