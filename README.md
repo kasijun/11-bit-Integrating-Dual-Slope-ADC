@@ -1,16 +1,15 @@
-# 11-bit dual slop Integrating ADC - Master program Project
-
 # 11-bit Dual Slope Integrating ADC - Master Program Project
 
 ## Table of Contents
-- [CHAPTER 1](#chapter-1)
-- [CHAPTER 2](#chapter-2)
-- [CHAPTER 3](#chapter-3)
-- [CHAPTER 4](#chapter-4)
-- [CHAPTER 5](#chapter-5)
-- [CHAPTER 6](#chapter-6)
+- [CHAPTER 1 - Introduction](#chapter-1---introduction)
+- [CHAPTER 2 - Specifications](#chapter-2---specifications)
+- [CHAPTER 3 - Concept](#chapter-3---concept)
+- [CHAPTER 4 - Verification](#chapter-4---verification)
+- [CHAPTER 5 - Results](#chapter-5---results)
+- [CHAPTER 6 - Conclusion](#chapter-6---conclusion)
 - [License](#license)
 
+<a name="chapter-1---introduction"></a>
 <details>
 <summary><strong>CHAPTER 1 - Introduction</strong></summary>
 
@@ -19,6 +18,7 @@ In this project, we inv...
 
 </details>
 
+<a name="chapter-2---specifications"></a>
 <details>
 <summary><strong>CHAPTER 2 - Specifications</strong></summary>
 
@@ -27,6 +27,7 @@ In this project, we inv...
 
 </details>
 
+<a name="chapter-3---concept"></a>
 <details>
 <summary><strong>CHAPTER 3 - Concept</strong></summary>
 
@@ -35,6 +36,7 @@ In this project, we inv...
 
 </details>
 
+<a name="chapter-4---verification"></a>
 <details>
 <summary><strong>CHAPTER 4 - Verification</strong></summary>
 
@@ -43,6 +45,7 @@ In this project, we inv...
 
 </details>
 
+<a name="chapter-5---results"></a>
 <details>
 <summary><strong>CHAPTER 5 - Results</strong></summary>
 
@@ -51,6 +54,7 @@ In this project, we inv...
 
 </details>
 
+<a name="chapter-6---conclusion"></a>
 <details>
 <summary><strong>CHAPTER 6 - Conclusion</strong></summary>
 
@@ -61,6 +65,9 @@ In this project, we inv...
 
 ## License
 (Your license info here)
+
+
+
 
 
 ## CHAPTER 1
