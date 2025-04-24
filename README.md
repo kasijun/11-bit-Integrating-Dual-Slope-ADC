@@ -1,13 +1,67 @@
 # 11-bit dual slop Integrating ADC - Master program Project
 
+# 11-bit Dual Slope Integrating ADC - Master Program Project
+
 ## Table of Contents
-- [CHAPTER 1](#introduction)
-- [CHAPTER 2](#specifications)
-- [CHAPTER 3](#concept)
-- [CHAPTER 4](#verification)
-- [CHAPTER 5](#results)
-- [CHAPTER 6](#conclusion)
+- [CHAPTER 1](#chapter-1)
+- [CHAPTER 2](#chapter-2)
+- [CHAPTER 3](#chapter-3)
+- [CHAPTER 4](#chapter-4)
+- [CHAPTER 5](#chapter-5)
+- [CHAPTER 6](#chapter-6)
 - [License](#license)
+
+<details>
+<summary><strong>CHAPTER 1 - Introduction</strong></summary>
+
+### Introduction
+In this project, we inv...
+
+</details>
+
+<details>
+<summary><strong>CHAPTER 2 - Specifications</strong></summary>
+
+### Specifications
+(Your chapter 2 content here)
+
+</details>
+
+<details>
+<summary><strong>CHAPTER 3 - Concept</strong></summary>
+
+### Concept
+(Your chapter 3 content here)
+
+</details>
+
+<details>
+<summary><strong>CHAPTER 4 - Verification</strong></summary>
+
+### Verification
+(Your chapter 4 content here)
+
+</details>
+
+<details>
+<summary><strong>CHAPTER 5 - Results</strong></summary>
+
+### Results
+(Your chapter 5 content here)
+
+</details>
+
+<details>
+<summary><strong>CHAPTER 6 - Conclusion</strong></summary>
+
+### Conclusion
+(Your chapter 6 content here)
+
+</details>
+
+## License
+(Your license info here)
+
 
 ## CHAPTER 1
 
