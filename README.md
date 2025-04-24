@@ -1,67 +1,35 @@
-# 11-bit Dual Slope Integrating ADC - Master Program Project
+# 11-bit Dual-Slope Integrating ADC – Master Program Project
 
 ## Table of Contents
-- [CHAPTER 1 - Introduction](#chapter-1---introduction)
-- [CHAPTER 2 - Specifications](#chapter-2---specifications)
-- [CHAPTER 3 - Concept](#chapter-3---concept)
-- [CHAPTER 4 - Verification](#chapter-4---verification)
-- [CHAPTER 5 - Results](#chapter-5---results)
-- [CHAPTER 6 - Conclusion](#chapter-6---conclusion)
+- [CHAPTER 1 – Introduction](#chapter-1-introduction)
+- [CHAPTER 2 – Specifications](#chapter-2-specifications)
+- [CHAPTER 3 – Concept](#chapter-3-concept)
+- [CHAPTER 4 – Verification](#chapter-4-verification)
+- [CHAPTER 5 – Results](#chapter-5-results)
+- [CHAPTER 6 – Conclusion](#chapter-6-conclusion)
 - [License](#license)
 
-<a name="chapter-1---introduction"></a>
-<details>
-<summary><strong>CHAPTER 1 - Introduction</strong></summary>
+<!--––––––––––––––––––––––––––––––––––––––––––––––-->
+<!-- CHAPTER 1 -->
+<details id="chapter-1-introduction">
+  <summary><strong>CHAPTER 1 – Introduction</strong></summary>
 
-### Introduction
-In this project, we inv...
-
-</details>
-
-<a name="chapter-2---specifications"></a>
-<details>
-<summary><strong>CHAPTER 2 - Specifications</strong></summary>
-
-### Specifications
-(Your chapter 2 content here)
+  ### Introduction
+  In this project, we inv…
 
 </details>
 
-<a name="chapter-3---concept"></a>
-<details>
-<summary><strong>CHAPTER 3 - Concept</strong></summary>
+<!--––––––––––––––––––––––––––––––––––––––––––––––-->
+<!-- CHAPTER 2 -->
+<details id="chapter-2-specifications">
+  <summary><strong>CHAPTER 2 – Specifications</strong></summary>
 
-### Concept
-(Your chapter 3 content here)
-
-</details>
-
-<a name="chapter-4---verification"></a>
-<details>
-<summary><strong>CHAPTER 4 - Verification</strong></summary>
-
-### Verification
-(Your chapter 4 content here)
+  ### Specifications
+  (Your chapter 2 content here)
 
 </details>
 
-<a name="chapter-5---results"></a>
-<details>
-<summary><strong>CHAPTER 5 - Results</strong></summary>
-
-### Results
-(Your chapter 5 content here)
-
-</details>
-
-<a name="chapter-6---conclusion"></a>
-<details>
-<summary><strong>CHAPTER 6 - Conclusion</strong></summary>
-
-### Conclusion
-(Your chapter 6 content here)
-
-</details>
+<!-- …and so on for CHAPTER 3–6 … -->
 
 ## License
 (Your license info here)
