@@ -1,42 +1,38 @@
 # 11-bit Dual-Slope Integrating ADC – Master Program Project
 
 ## Table of Contents
-- [CHAPTER 1 – Introduction](#chapter-1-introduction)
-- [CHAPTER 2 – Specifications](#chapter-2-specifications)
-- [CHAPTER 3 – Concept](#chapter-3-concept)
-- [CHAPTER 4 – Verification](#chapter-4-verification)
-- [CHAPTER 5 – Results](#chapter-5-results)
-- [CHAPTER 6 – Conclusion](#chapter-6-conclusion)
-- [License](#license)
 
-<!--––––––––––––––––––––––––––––––––––––––––––––––-->
-<!-- CHAPTER 1 -->
-<details id="chapter-1-introduction">
-  <summary><strong>CHAPTER 1 – Introduction</strong></summary>
+### [CHAPTER 1](#chapter-1)
+<details>
+<summary>▶ View Content</summary>
 
-  ### Introduction
-  In this project, we inv…
+- [1.1 Introduction](#introduction)
+- [1.2 System Overview](#system-overview)
 
 </details>
 
-<!--––––––––––––––––––––––––––––––––––––––––––––––-->
-<!-- CHAPTER 2 -->
-<details id="chapter-2-specifications">
-  <summary><strong>CHAPTER 2 – Specifications</strong></summary>
+### [CHAPTER 2](#chapter-2)
+<details>
+<summary>▶ View Content</summary>
 
-  ### Specifications
-  (Your chapter 2 content here)
+- [2.1 Design Goals](#design-goals)
+- [2.2 Specifications Table](#specifications-table)
 
 </details>
 
-<!-- …and so on for CHAPTER 3–6 … -->
+<!-- Repeat for other chapters -->
 
-## License
-(Your license info here)
+---
 
+## <a name="chapter-1"></a>CHAPTER 1
 
+### <a name="introduction"></a>1.1 Introduction
+(Your introduction content here)
 
+### <a name="system-overview"></a>1.2 System Overview
+(Your system overview content here)
 
+---
 
 ## CHAPTER 1
 
@@ -49,6 +45,19 @@ In this project, we investigate the integration of an Analog-to-Digital Converte
 - Sample rate: 1 MSPS
 - Input voltage range: 0-5V
 - Power supply: 3.3V
+
+
+## <a name="chapter-2"></a>CHAPTER 2
+
+### <a name="design-goals"></a>2.1 Design Goals
+(Your design goals here)
+
+### <a name="specifications-table"></a>2.2 Specifications Table
+(Spec table content here)
+
+
+
+
 
 ### System Requirements
 - System-on-Chip (SoC) with ADC interface
