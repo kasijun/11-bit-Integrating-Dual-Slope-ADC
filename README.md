@@ -1,13 +1,15 @@
-# Hybrid ADC Integration Project
+# 11-bit dual slop Integrating ADC - Master program Project
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Specifications](#specifications)
-- [Concept](#concept)
-- [Verification](#verification)
-- [Results](#results)
-- [Conclusion](#conclusion)
+- [CHAPTER 1](#introduction)
+- [CHAPTER 2](#specifications)
+- [CHAPTER 3](#concept)
+- [CHAPTER 4](#verification)
+- [CHAPTER 5](#results)
+- [CHAPTER 6](#conclusion)
 - [License](#license)
+
+## CHAPTER 1
 
 ## Introduction
 In this project, we investigate the integration of an Analog-to-Digital Converter (ADC) in a hybrid buck converter system. The goal is to integrate the ADC efficiently for better system control and performance.
